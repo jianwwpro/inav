@@ -45,6 +45,7 @@
 #define MPU6500_SPI_BUS                 BUS_SPI1
 #define MPU6500_CS_PIN                  PA4
 
+
 // *************** Baro **************************
 #define USE_I2C
 
